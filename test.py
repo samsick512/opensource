@@ -1,12 +1,12 @@
 
 def findMAx(a,b,c):
     if a>b:
-        biggest=a
+        big=a
     else:
-        biggest=b
+        big=b
 
-    if c>biggest:
-        biggest=c
+    if c>big:
+        big=c
 
     return biggest
 
